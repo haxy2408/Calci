@@ -1,0 +1,6 @@
+{
+  "name": "Calci",
+  "description": "A stylish, fully functional calculator with a hidden biometric private media vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
